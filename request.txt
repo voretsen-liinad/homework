@@ -1,0 +1,5 @@
+The text
+inside the file
+"request.txt"
+
+plus another content
